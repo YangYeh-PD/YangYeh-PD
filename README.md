@@ -11,7 +11,7 @@ With a deep interest in low-level programming and system architecture, I am cons
 ## 🔭 Experience
 ### Coding Ape
 *Sep.2021 - Aug. 2024*
-- Taught programming concepts including basic syntax, program structure, pointers, data structures and sorting algo in C/C++.
+- Taught programming concepts including basic syntax, program structure, pointers, object-oriented design, data structures and algorithms in C/C++.
 - Ensured students developed strong foundational knowledge and problem-solving skills needed for advanced programming challenges.
 
 ### NCKU Economics Department
