@@ -4,15 +4,16 @@ I am passionate about becoming a highly skilled software engineer, with a strong
 
 With a deep interest in low-level programming and system architecture, I am constantly striving to enhance my knowledge and expertise in these areas. I am eager to contribute to innovative projects and solve complex challenges in the field, as I work towards building a successful career in software engineering.
 
-## 🌱 Education  
-### National Cheng Kung University (NCKU)
-**Research Interests**: [Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Scheduler and Libraries.
-
 ## 🔭 Experience
 ### Coding Ape
-*Sep.2021 - Aug. 2024*
-- Taught programming concepts including basic syntax, program structure, pointers, object-oriented design, data structures and algorithms in C/C++.
+*Sep. 2021 - Aug. 2024*
+- Taught programming concepts including basic syntax, program structure, pointers, object-oriented design, stack, queue, linked list, tree, hash table data structures and searching, sorting algorithms in C, C++, and Python.
 - Ensured students developed strong foundational knowledge and problem-solving skills needed for advanced programming challenges.
+
+### NCKU Physics Department
+*Sep. 2022 - Aug. 2023*
+- Designed, analyzed, and implemented digital infrared sensor circuits for educational teaching aids featured at a Physics Education Science Fair. Responsibilities included soldering components, creating custom laser-cut enclosures, and performing circuit safety tests with laboratory equipment.
+- Collaborated with design team to develop and maintain Arduino programs in C++ to ensure accuracy and reliability, contributing to a successful exhibition.
 
 ### NCKU Economics Department
 *Sep. 2020 - Feb. 2021*  
@@ -21,10 +22,17 @@ With a deep interest in low-level programming and system architecture, I am cons
 
 ## 👯 Extracurricular Activities
 ### NCKU Google Developer Student Clubs (GDSC)
-*Sep. 2022 - Feb. 2023*
-- Developed web-based algorithm visualizers using HTML/CSS and Javascript with the React framework, which were used as teaching tools at Coding Ape.
-- Mentored team members in C/C++ programming, providing guidance on key topics including sorting algorithms and their time complexity.
-- Collaborated with team members to ensure smooth and efficient implementation of features on educationaal websites, contributing to a seamless user experience.
+*Sep. 2022 - Aug. 2023*
+- Developed web-based [algorithm visualizers](https://tseanlin.github.io/Sorting_Visualizer/) using HTML/CSS and Javascript with the React framework, which were used as teaching tools at Coding Ape.
+- Mentored team members in C/C++ programming, providing guidance on key topics including sorting algorithms (Merge Sort, Quick Sort, Heap Sort) and their time and space complexity.
+
+## Projects
+- [Binary Tree & Binary Search Tree Implementation](https://github.com/YangYeh-PD/binary-tree) – Developed efficient implementations of binary tree and binary search tree data structures in C, emphasizing traversal, insertion, deletion, and search operations.
+- [Sudoku Solver](https://github.com/YangYeh-PD/sudoku-solver) – Designed a program to generate challenging Sudoku puzzles and solve them quickly, leveraging backtracking algorithms for optimal performance.
+
+## 🌱 Education  
+### National Cheng Kung University (NCKU)
+- **Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Concurrency, Scheduler and Libraries), Embedded System, Firmware and Quantum Communication.
 
 <!--
 **YangYeh-PD/yangyeh-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
