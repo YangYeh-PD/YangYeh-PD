@@ -1,6 +1,6 @@
 # 👋 Hi there
 ### My name is Chen-Yang Yeh, but you can call me Leo.  
-I am passionate about becoming a highly skilled software engineer, with a strong focus on **operating systems** and **firmware** development.  
+I am passionate about becoming a highly skilled embedded software engineer, with a strong focus on **operating systems**, **embedded systems**, and **firmware** development.  
 
 With a deep interest in low-level programming and system architecture, I am constantly striving to enhance my knowledge and expertise in these areas. I am eager to contribute to innovative projects and solve complex challenges in the field, as I work towards building a successful career in software engineering.
 
@@ -13,22 +13,18 @@ With a deep interest in low-level programming and system architecture, I am cons
 ### Department of Physics, NCKU
 *Sep. 2022 - Aug. 2023*
 - Designed, analyzed, and implemented digital infrared sensor circuits for educational teaching aids featured at a Physics Education Science Fair. Responsibilities included soldering components, creating custom laser-cut enclosures, and performing circuit safety tests with laboratory equipment.
-- Collaborated with design team to develop and maintain Arduino programs in C++ to ensure accuracy and reliability, contributing to a successful exhibition.
+- Collaborated withi the design team to develop and maintain Arduino programs in C++ to ensure accuracy and reliability, contributing to a successful exhibition.
 
 ### Department of Economics, NCKU
 *Sep. 2020 - Feb. 2021*  
 - Developed, modified and improved data crawler programs using Selenium in Python to efficiently extract air pollution data from NASA.
 - Used Stata and regression methods to analyze more than 300 million data points to investigate the relationship between children’s IQ and PM2.5 index in Africa.
 
-## 👯 Extracurricular Activities
+## ⚡ Extracurricular Activities
 ### Google Developer Student Clubs (GDSC)
 *Sep. 2022 - Aug. 2023*
 - Developed web-based [algorithm visualizers](https://tseanlin.github.io/Sorting_Visualizer/) using HTML/CSS and Javascript with the React framework, which were used as teaching tools at Coding Ape.
 - Mentored team members in C/C++ programming, providing guidance on key topics including sorting algorithms (Merge Sort, Quick Sort, Heap Sort) and their time and space complexity.
-
-## Projects
-- [Binary Tree & Binary Search Tree Implementation](https://github.com/YangYeh-PD/binary-tree) – Developed efficient implementations of binary tree and binary search tree data structures in C, emphasizing traversal, insertion, deletion, and search operations.
-- [Sudoku Solver](https://github.com/YangYeh-PD/sudoku-solver) – Designed a program to generate challenging Sudoku puzzles and solve them quickly, leveraging backtracking algorithms for optimal performance.
 
 ## 🌱 Education  
 ### National Cheng Kung University (NCKU)
