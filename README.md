@@ -28,7 +28,7 @@ With a deep interest in low-level programming and system architecture, I am cons
 
 ## 🌱 Education  
 ### National Cheng Kung University (NCKU)
-- **Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Concurrency, Scheduler and Libraries), Embedded System, Firmware and Quantum Communication.
+- **Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Concurrency, Scheduler and Libraries), Embedded System, Firmware, and Quantum Communication.
 
 <!--
 **YangYeh-PD/yangyeh-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
