@@ -38,6 +38,8 @@ Heap Sort) and their time and space complexity.
 
 ## 🌱 Education  
 ### National Cheng Kung University (NCKU)
+*Sep. 2019 - Jun. 2024*
+- **Major**: *Bachlor of Science* in **Physics**.
 - **Research Interests**: Operating System ([Linux Kernel](https://hackmd.io/@YangYeh/linux2024) Concurrency, Scheduler and 
 Libraries), Embedded System, Firmware, and Quantum Communication.
 
